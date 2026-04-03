@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Dalam  عِصْمَتُهُم كَسائِرِ الْمَلَائِكَة * وَاجِبَةٌ وَ\nفَاضَلُوْا الْمَلَائِكَة, lafadz عِصْمَتُهُمْ termasuk kategori apa?",
+    "option_A": "Nakiroh",
+    "option_B": "Ma‘rifat",
+    "option_C": "Fi'liyyah",
+    "option_D": "Isti'nafiyyah",
+    "option_E": "Kinayah",
+    "answer_index": "1",
+    "explanation": "Karena lafadz tersebut diidhafahkan kepada dhamir.",
+    "": ""
+  },
+  {
+    "question": "Di bawah ini, yang bukan termasuk isim ma‘rifat adalah?",
+    "option_A": "زَيْدٌ‎",
+    "option_B": "ٱلضَّارِبُ",
+    "option_C": "غُلَامُهُ",
+    "option_D": "رَجُلٌ‎",
+    "option_E": "هَذِهِ",
+    "answer_index": "3",
+    "explanation": "Karena lafadz tersebut bermakna laki-laki yang belum jelas.",
+    "": ""
+  },
+  {
+    "question": "Di bawah ini, yang termasuk isim ma‘rifat adalah?",
+    "option_A": "رَجُلٌ‎",
+    "option_B": "رَجُلَانِ",
+    "option_C": "ضَرَبَ",
+    "option_D": "لٰكِنَّ",
+    "option_E": "يَا رَجُلُ‎",
+    "answer_index": "4",
+    "explanation": "Karena lafadz tersebut termasuk nakirah maqṣūdah (nakiroh yang dituju).",
+    "": ""
+  },
+  {
+    "question": "Di bawah ini, lafadz yang paling ma‘rifat adalah?",
+    "option_A": "عَلَمٌ",
+    "option_B": "ٱسْمُ إِشَارَةٍ",
+    "option_C": "ٱسْمُ مَوْصُولٍ‎",
+    "option_D": "نَكِرَةٌ مَقْصُودَةٌ",
+    "option_E": "لَفْظُ الْجَلَالَة",
+    "answer_index": "4",
+    "explanation": "Karena lafadz jalālah adalah lafadz yang paling jelas maknanya.‎",
+    "": ""
+  },
+  {
+    "question": "Apa hukum lafadz مَلَائِكَةُ?",
+    "option_A": "مُنْصَرِف",
+    "option_B": "غَيْرُ مَنْصَرِفٍ",
+    "option_C": "مُتَصَرِّفٌ",
+    "option_D": "مَبْنِيٌّ",
+    "option_E": "مُنْصَرَفٌ‎",
+    "answer_index": "0",
+    "explanation": "Lafadz ملائكة tidak memenuhi syarat untuk menjadi isim ghoir munshorif",
+    "": ""
+  },
+  {
+    "question": "Dalam وَالْمُسْتَحِيْلُ ضِدُّ كُلِّ وَاجِبِ, Ṣīghah dari lafadz مُسْتَحِيل adalah?",
+    "option_A": "Isim Fā‘il",
+    "option_B": "Isim Maf'ul",
+    "option_C": "Isim Alat",
+    "option_D": "Fi'il Amr‎",
+    "option_E": "Isim Dlomir",
+    "answer_index": "0",
+    "explanation": "Tashrifannya yaitu اسْتَحَالَ يَسْتَحِيلُ اسْتِحَالَةً وَمُسْتَحَالَةً فَهُوَ مُسْتَحِيلٌ وَذَاكَ مُسْتَحَالٌ اسْتَحِلْ لَا تَسْتَحِلْ مُسْتَحَالٌ",
+    "": ""
+  },
+  {
+    "question": "Fi‘il māḍī dari lafadz وَاجِبٌ adalah?",
+    "option_A": "وَجَابَ",
+    "option_B": "جَوْبٌ‎",
+    "option_C": "وَجَبَ‎",
+    "option_D": "جَاوَبَ",
+    "option_E": "جَابَ",
+    "answer_index": "2",
+    "explanation": "Tashrifannya yaitu وَجَبَ يَجِبُ وُجُوبًا وَمَوْجِبًا فَهُوَ وَاجِبٌ وَذَاكَ مَوْجُوبٌ جِبْ لَا تَجِبْ مُوْجِبٌ مِيجَابٌ",
+    "": ""
+  },
+  {
+    "question": "Dalam فَاحْفَظْ لِخَمْسِيْنَ بِحُكْمٍ وَاجِبِ, lafadz حَفِظَ يَحْفَظُ termasuk bāb berapa?",
+    "option_A": "4",
+    "option_B": "5",
+    "option_C": "6",
+    "option_D": "3‎",
+    "option_E": "2",
+    "answer_index": "0",
+    "explanation": "Karena ‘Ain fi‘il māḍī berharakat fathah, dan ‘Ain fi‘il muḍāri‘ berharakat kasrah.‎",
+    "": ""
+  },
+  {
+    "question": "Huruf ziyādah yang ada dalam lafadz َفَاضَل adalah?",
+    "option_A": "fa'",
+    "option_B": "Alif",
+    "option_C": "lam",
+    "option_D": "Dlod",
+    "option_E": "semua benar‎",
+    "answer_index": "1",
+    "explanation": "Karena huruf tersebut bukan bagian dari fā’, ‘ain, dan lām fi‘il.",
+    "": ""
+  },
+  {
+    "question": "Salah satu faidah dari ṣīghah فَاعَلَ adalah?",
+    "option_A": "طَلَبٌ",
+    "option_B": "مُطَاوَعَةٌ",
+    "option_C": "ٱتِّخَاذٌ",
+    "option_D": "مُشَارَكَةٌ‎",
+    "option_E": "تَفْصِيلٌ",
+    "answer_index": "3",
+    "explanation": "Musyarokah artinya antara pelaku dan sasaran saling melakukan suatu predikat (pekerjaan).",
+    "": ""
+  },
+  {
+    "question": "Dalam تَفْصِيْلُ خَمْسَةٍ وَعِشْرِيْنَ لَزِمْ, Isim Fā‘il dari lafadz تَفْصِيل adalah?",
+    "option_A": "مُفَصَّلٌ",
+    "option_B": "فَاصِلٌ",
+    "option_C": "مُفَصِّلٌ",
+    "option_D": "فَصْلٌ",
+    "option_E": "مِفْصَلٌ",
+    "answer_index": "2",
+    "explanation": "Tashrifannya yaitu فَصَّلَ يُفَصِّلُ تَفْصِيلًا تَفْصِلَةً تَفْصَالًا تِفْصَالًا مُفَصَّلًا فَهُوَ مُفَصِّلٌ وَذَاكَ مُفَصَّلٌ فَصِّلْ لَا تُفَصِّلْ مُفَصَّلٌ",
+    "": ""
+  },
+  {
+    "question": "Dalam كُلَّ مُكَلَّفٍ فَحَقِّقْ وَاغْتَنُمْ, Status lafadz كُلُّ yang ada dalam كُلُّ مُكَلَّفٍ menjadi apa?",
+    "option_A": "ظَرْفٌ",
+    "option_B": "مَفْعُولٌ مَعَهُ",
+    "option_C": "مَفْعُولٌ بِهِ",
+    "option_D": "مَفْعُولٌ لَهُ",
+    "option_E": "ٱلِٱسْتِثْنَاءُ",
+    "answer_index": "2",
+    "explanation": "Karena lafadz tersebut menjadi sasaran dari lafadz لَزِمَ.",
+    "": ""
+  },
+  {
+    "question": "Binā’ dari lafadz اغْتَنِمْ adalah?",
+    "option_A": "مُضَاعَفٌ",
+    "option_B": "صَحِيحٌ",
+    "option_C": "مَهْمُوزٌ",
+    "option_D": "لَفِيفٌ",
+    "option_E": "مِثَالٌ",
+    "answer_index": "1",
+    "explanation": "Karena lafadz tersebut tidak mengandung huruf ‘illat, hamzah, dan tidak ada huruf sejenis yang bertemu.",
+    "": ""
+  },
+  {
+    "question": "Dalam تَفْصِيْلُ خَمْسَةٍ وَعِشْرِيْنَ لَزِمْ, apa i‘rāb lafadz عِشْرِينَ adalah?",
+    "option_A": "Nasob",
+    "option_B": "Rofa'",
+    "option_C": "Jazm",
+    "option_D": "Jer",
+    "option_E": "Mabni",
+    "answer_index": "3",
+    "explanation": "Karena lafadz tersebut di‘aṭafkan kepada lafadz خَمْسَةِ, yang dibaca Jer.‎",
+    "": ""
+  },
+  {
+    "question": "Dalam تَفْصِيْلُ خَمْسَةٍ وَعِشْرِيْنَ لَزِمْ, apa status lafadz عِشْرِينَ adalah?",
+    "option_A": "مُلْحَق جَمْع مُذَكَّر سَالِم",
+    "option_B": "تَثْنِيَةٌ",
+    "option_C": "مُلْحَقُ تَثْنِيَةٍ",
+    "option_D": "مُفْرَدٌ",
+    "option_E": "جَمْعُ مُذَكَّرٍ سَالِمٌ",
+    "answer_index": "0",
+    "explanation": "Mulhaq jamak mudzakkar salim adalah lafadz yang mengikuti gaya i'rob jamak mudzakkar namun bukan tergolong jamak mudzakkar.",
+    "": ""
+  },
+  {
+    "question": "Jika معدود mudhakkar, maka bahasa Arab dari angka 5 adalah?",
+    "option_A": "خَامِسَةٌ",
+    "option_B": "خَمْسٌ",
+    "option_C": "خَمُسٌ",
+    "option_D": "خَمْسُونَ",
+    "option_E": "خَمْسَةٌ",
+    "answer_index": "4",
+    "explanation": "Karena jika ma‘dūd mudhakkar, bilangan harus diberi tā’ marbūṭah. Namun, jika ma‘dūd mu‘annas, tā’ tersebut dihilangkan.",
+    "": ""
+  },
+  {
+    "question": "Bahasa Arab dari angka 5 secara umum adalah?",
+    "option_A": "خَامِسٌ/خَامِسَةٌ",
+    "option_B": "خَمْسٌ/خَمْسَةٌ",
+    "option_C": "خَمْسُونَ",
+    "option_D": "خَوَمْسَةٌ / خَوَمْسٌ",
+    "option_E": "خَمَاسَةٌ",
+    "answer_index": "1",
+    "explanation": "Dalam bentuk dasar, angka 5 dalam bahasa Arab disebut khamsah/Khams.",
+    "": ""
+  },
+  {
+    "question": "Bahasa Arab dari 1/5 (seperlima) adalah?",
+    "option_A": "خَامِسَةٌ",
+    "option_B": "خُمُسٌ",
+    "option_C": "خَمْسٌ",
+    "option_D": "خَمْسَةٌ",
+    "option_E": "خَمْسُونَ",
+    "answer_index": "1",
+    "explanation": "Karena dalam sistem pecahan bahasa Arab, wazan فُعُلٌ digunakan untuk menyatakan pecahan dari bilangan pokok.",
+    "": ""
+  },
+  {
+    "question": "Dalam هُمْ آدَمٌ إِدْرِيسُ نُوْحٌ هُوْدُ مَعْ * صَالِحْ وَإِبْرَاهِيْمُ كُلٌّ مُتَّبَعْ, selain ‘alamiyyah, apa ‘illah yang menjadikan lafadz آدَمُ menjadi ghayr munṣarif?",
+    "option_A": "وَزْنُ فِعْلٍ",
+    "option_B": "عَدْلٌ",
+    "option_C": "عَجَمِيَّةٌ",
+    "option_D": "وَصْفِيَّةٌ",
+    "option_E": "تَرْكِيبٌ مَزْجِيٌّ",
+    "answer_index": "2",
+    "explanation": "Karena lafadz آدَمُ (عليه السلام) bukanlah nama dalam bahasa Arab.",
+    "": ""
+  },
+  {
+    "question": "Di bawah ini, yang tidak termasuk lafadz ghayr munṣarif dari nama-nama nabi adalah?",
+    "option_A": "إِبْرَاهِيمُ عَلَيْهِ ٱلسَّلَامُ",
+    "option_B": "يُونُسُ عَلَيْهِ ٱلسَّلَامُ",
+    "option_C": "صَالِحٌ عليه السلام",
+    "option_D": "سُلَيْمَانُ عَلَيْهِ ٱلسَّلَامُ",
+    "option_E": "يَعْقُوبُ عَلَيْهِ ٱلسَّلَامُ",
+    "answer_index": "2",
+    "explanation": "Dari nama nama 25 nabi hanya 6 yang munshorif yaitu: Muhammad صلى الله عليه وسلم, Nuh, Syuaib, Sholeh, Hud, dan Luth عليهم السلام.",
+    "": ""
+  }
+]
